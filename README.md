@@ -143,4 +143,4 @@ async def leave(ctx):
         await ctx.send("🚫 Nem estou na call.")
 
 # RODAR O BOT
-bot.run(
+bot.run(xxx)
